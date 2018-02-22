@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 19f014aef8fc1f223cdc3c8ee8b868fec0440f87
 # Programming Fundamentals 1st Project _ in C
 
 ``` While(True): 
@@ -7,7 +11,11 @@
 
 ## BETA
 
+<<<<<<< HEAD
 ### Version 1.0a
+=======
+### Version 1.0
+>>>>>>> 19f014aef8fc1f223cdc3c8ee8b868fec0440f87
 
 This version is the very first version. 
 Very early stages.
