@@ -20,7 +20,7 @@ vogal = ["I","U"]+ vogal_palavra
 /* Functions */
 
 char e_silaba4(char chars){
-  /*TEST*/
+  
 }
 
 /* Main */
